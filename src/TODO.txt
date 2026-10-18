@@ -1,0 +1,18 @@
+PRACTICA CRUD  
+
+Necesito un CRUD clásico con todo, hasta con detalles, Read, Update, Insert, Delete 
+Es la misma práctica que hemos hecho con Departamentos
+ 
+El Update debemos hacerlo bien, nada de enviar los datos por URL, enviaremos  
+El ID y, dentro del component buscamos el objeto para mostrarlo. 
+https://apicorecrudcoches.azurewebsites.net/index.html 
+
+
+Ya no me gusta Boostrap, quiero que lo hagamos con Tailwind 
+Después de implementar Tailwind, lo quiero bonito. 
+
+~ getAllCars()
+~ getCarById()
+~ insertCar()
+~ updateCar()
+~ deleteCarById()
